@@ -1,4 +1,6 @@
+import os
 from openai import OpenAI
+
 
 # 🔴 Replace with your OpenRouter API key
 client = OpenAI(
